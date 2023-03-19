@@ -1,0 +1,24 @@
+#movie-list ol li span {display: block; }
+h1, h2 {text-align: center;}
+
+#movie-list {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+#movie-list ol li a {
+        float: right;
+        margin-top: -20px;
+}  
+#movie-list ol li {
+    border-bottom: 1px solid #000; 
+    padding: 0 0 20px 0;
+    margin:0 0 20px 0;}  
+
+
+.movie-top-list {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.movie {padding: 30px 0;}
